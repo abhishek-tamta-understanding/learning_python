@@ -121,3 +121,42 @@ print('The dollars we have from reais', reais)
 <br>
 # 2) NameError: This occurs when one is trying to use a variable without declaring it first.
 # 3) TypeError: This occurs when the data type one is using doesn't suit what one is trying to do.
+
+# Few other data type which are built in by default
+## 1) Sequence types: list, tuple, range
+### a) list- my_list = [1,2,3,4,5]                 ### list can contain any int or str or float or a complete another list and it can contain both the data type. 
+### example- my_list = [1,'hello',3.14, [1,2,3,4]]
+
+### Tuple-  my_tuple = (1,2,3)
+single_element_tuple =(1,)                ### comma is necessary for single element tuples.
+### (1) this is a number but (1,) is a tuple.
+
+## 2) Mapping type: dict
+## 3) Binary types: bytes, bytearray, memoryview
+## 4) None type: NoneType
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
